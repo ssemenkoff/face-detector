@@ -7,6 +7,7 @@
         playsinline
         width
         height
+        style="transform: scaleX(-1)"
       />
       <div class="absolute w-full h-full top-0 left-0">
         <svg viewBox="0 0 1000 100" preserveAspectRatio="xMidYMid slice" class="h-full w-full">
