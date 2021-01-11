@@ -1,4 +1,4 @@
-# test-task
+# Face detection using pico.js
 
 ## Project setup
 ```
